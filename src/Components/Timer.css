@@ -1,0 +1,10 @@
+.timer h3 {
+	font-size: 22px;
+	font-weight: 500;
+	margin: 0;
+	line-height: 25px;
+}
+
+.timer .times h3 {
+	font-weight: 300;
+}
